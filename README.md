@@ -1,16 +1,11 @@
-# chat_app
+# Chat App with Firebase 🔥
+A real-time chat application built with Flutter and Firebase that allows users to create and join chat rooms to communicate instantly. The app uses Firebase authentication, Firestore database integration and provider for state management.
 
-A new Flutter project.
+## Features 🎨
+- User Authentication: Secure login and signup using Firebase Authentication.
+- Real-time Messaging: Send and receive messages instantly using Firestore.
+- Chat Rooms: Create and join chat rooms for group conversations.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App UI 📱
+![1](https://github.com/user-attachments/assets/96b34218-ce11-42ad-9c25-5dabe04d3f9a)
+![2](https://github.com/user-attachments/assets/fb411742-513a-49d2-a27c-18baa709e3d8)
